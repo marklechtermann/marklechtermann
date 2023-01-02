@@ -9,7 +9,7 @@ Hi there! My name is Mark Lechtermann and I am a software architect with a stron
 * 🌍  I'm based in Paderborn (Germany)
 * 🖥️  See my portfolio at [GitHub](http://github.com/marklechtermann)
 * 🚀  I'm currently working on [DSCOM](http://github.com/dspace-group/dscom)
-* 🧠  I'm learning SolidJS
+* 🧠  I'm learning Rust
 
 ### Skills
 
