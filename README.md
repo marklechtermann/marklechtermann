@@ -1,15 +1,47 @@
-Hi 👋 My name is Mark Lechtermann
-=================================
+# Mark Lechtermann
 
-Software Architect - Full Stack Developer
------------------------------------------
+**Software Architect · AI, Web & Cloud · Paderborn, Germany**
 
-Hi there! My name is Mark Lechtermann and I am a software architect with a strong background in .NET and C#. I am also skilled in JavaScript and TypeScript, and have a passion for working with Kubernetes and Azure. In my current role, I am responsible for designing and implementing scalable, efficient software solutions that meet the needs of my clients. I am always looking for new challenges and opportunities to expand my knowledge and skills, and I am excited to share my work and insights on my GitHub page. Thank you for visiting!
+I don't think our job is writing code anymore. Our job is building the factory that writes it.
 
-* 🌍  I'm based in Paderborn (Germany)
-* 🖥️  See my portfolio at [GitHub](http://github.com/marklechtermann)
-* 🚀  I'm currently working on [DSCOM](http://github.com/dspace-group/dscom)
-* 🧠  I'm learning Rust
+At [dSPACE](https://www.dspace.com) I work with our development teams on an AI software factory:
+the setup in which AI agents turn requirements into working, tested software for a large
+enterprise, fast and at a cost that still makes sense at scale. My part is the architecture
+of that factory: the platform, the guardrails, the context agents get through MCP, and the
+process around it, from the first requirement to the reviewed pull request.
+
+I also lead the company-wide Web & Cloud architecture community and write the guidelines
+our teams build on. Before AI filled my calendar, I spent more than 20 years with .NET, COM,
+containers and the cloud. So I care less about the newest model and more about what still
+runs in production a year later.
+
+Some days the job title should read *AI Factory Facility Manager*.
+
+### What I'm thinking about
+
+- What does a software factory need so that agents deliver enterprise-grade results, not demos?
+- Where does the cost go: tokens, review time, or rework?
+- How do you review code when agents write most of it?
+- What belongs in a requirement before any agent starts working?
+- Does spec-driven development hold up in a team of hundreds?
+
+### Focus
+
+- **AI software factory:** agent harness, skills, MCP, RAG, guardrails, cost control
+- **AI software architecture:** AI-ready products, agentic workflows, spec-driven development
+- **Web & cloud:** Kubernetes, Azure, .NET, TypeScript, React
+
+### Open source
+
+**[dscom](https://github.com/dspace-group/dscom)**: exports .NET assemblies to COM type libraries,
+a replacement for `tlbexp.exe` and `TypeLibConverter`. Maintainer.
+
+### Background
+
+iSAQB CPSA-F and SWARC4AI (architecture for AI systems) · CKAD ·
+founder of the .NET User Group Paderborn · speaker at dotnet Cologne
+
+[LinkedIn](https://linkedin.com/in/mark-lechtermann)
 
 ### Skills
 
